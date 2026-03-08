@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>GameFinder - Recommend</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav>
+        <h2>GameFinder</h2>
+
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="games.html">Games</a></li>
+            <li><a class="active" href="recommend.html">Recommend</a></li>
+            <li><a href="about.html">About</a></li>
+        </ul>
+    </nav>
+
+
+    <section>
+
+        <h2>Find a Game Recommendation</h2>
+
+        <form id="gameForm">
+
+            <input type="text" id="name" placeholder="Enter your name" required>
+
+            <input type="email" id="email" placeholder="Enter your email" required>
+
+            <select id="type">
+
+                <option value="">Select Game Type</option>
+                <option value="aaa">AAA Game</option>
+                <option value="indie">Indie Game</option>
+                <option value="story">Story Game</option>
+
+            </select>
+
+            <textarea id="message" placeholder="Your favourite game"></textarea>
+
+            <button type="submit">Get Recommendation</button>
+
+        </form>
+
+        <div id="result"></div>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
