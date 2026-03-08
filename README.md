@@ -24,7 +24,7 @@ This project contains multiple webpages such as **Home, About, Services, and Con
 
 - HTML5
 - CSS3
-- JavaScript (if included)
+- JavaScript
 
 ---
 
