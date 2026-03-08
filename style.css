@@ -123,3 +123,32 @@ button:hover {
     font-size: 18px;
     color: #22c55e;
 }
+.game-card img{
+width:100%;
+height:200px;
+object-fit:cover;
+border-radius:8px;
+margin-bottom:10px;
+}
+
+.game-card{
+background:#263f6a;
+color:white;
+padding:15px;
+border-radius:10px;
+box-shadow:0 2px 8px rgba(255, 255, 255, 0.3);
+text-align:center;
+transition:0.3s;
+}
+
+.game-container{
+display:flex;
+gap:20px;
+justify-content:center;
+flex-wrap:wrap;
+}
+
+.game-card:hover{
+background:#2161b5;
+transform:translateY(-5px);
+}
