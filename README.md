@@ -52,10 +52,10 @@ MultiPageSite_GauravPatil/
 
 ### Homepage
 
-![Homepage Screenshot](screenshots_Images/Screenshot%202026-03-08%20224609.png)
+![Homepage Screenshot](screenshots_Images/Screenshot%202026-03-08%20224448.png)
 
 ### Form Page
-![Recommand page Screenshot](screenshots_Images/Screenshot%202026-03-08%20224448.png)
+![Recommand page Screenshot](screenshots_Images/Screenshot%202026-03-08%20224609.png)
 ---
 
 ## 💻 How to Run the Project
